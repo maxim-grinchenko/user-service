@@ -2,19 +2,23 @@
 
 the module to save, update, delete, find user in database.
 
-####Skills
+#### Skills
+
 ..* DTO
+
 ..* Custom exception (UnauthorizedException, ValidationException)
+
 ..* Filter (SecurityFilter, ErrorHandlerFilter)
+
 ..* Servlets
 
 
-###Patterns
+### Patterns
 ..* Singleton /Joshua J. Bloch/
 ..* Facade
 
 
-###Libraries
+### Libraries
 ..* junit, powermock
 ..* slf4j, log4j
 ..* mysql
