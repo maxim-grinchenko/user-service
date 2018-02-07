@@ -12,12 +12,6 @@ the module to save, update, delete, find user in database.
 * REST
 * REGEX
 
-
-#### Patterns
-* Singleton /Joshua J. Bloch/
-* Facade
-
-
 #### Libraries
 * junit, powermock
 * slf4j, log4j
