@@ -4,17 +4,14 @@ the module to save, update, delete, find user in database.
 
 #### Skills
 
-..* DTO
-
-..* Custom exception (UnauthorizedException, ValidationException)
-
-..* Filter (SecurityFilter, ErrorHandlerFilter)
-
-..* Servlets
+* DTO
+* Custom exception (UnauthorizedException, ValidationException)
+* Filter (SecurityFilter, ErrorHandlerFilter)
+* Servlets
 
 
 ### Patterns
-..* Singleton /Joshua J. Bloch/
+* Singleton /Joshua J. Bloch/
 ..* Facade
 
 
