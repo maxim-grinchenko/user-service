@@ -1,12 +1,16 @@
-### project develop "user-service"
+### Project "user-service"
 
 the module to save, update, delete, find user in database.
 
 #### Skills
+* Apache Maven
 * DTO
 * Custom exception (UnauthorizedException, ValidationException)
 * Filter (SecurityFilter, ErrorHandlerFilter)
 * Servlets
+* JSON
+* REST
+* REGEX
 
 
 #### Patterns
